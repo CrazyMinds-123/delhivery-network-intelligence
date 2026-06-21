@@ -31,8 +31,8 @@ This project treats the logistics infrastructure as a **living mathematical grap
 
 | File / Directory | Description |
 |---|---|
-|  **[`reports/Delhivery_Strategy_Memo.pdf`](./reports/Delhivery_Strategy_Memo.pdf)** | **Start Here.** A 2-page executive summary detailing the root causes of delays and ROI-driven operational interventions. |
-|  **[`notebooks/Delhivery_Network_Analysis.ipynb`](./notebooks/Delhivery_Network_Analysis.ipynb)** | The master Jupyter Notebook containing the end-to-end data pipeline, EDA, Graph Modeling, and ML Showdown. |
+|  **[`reports/memo_IITG_project.pdf`](./reports/memo_IITG_project.pdf)** | **Start Here.** A 2-page executive summary detailing the root causes of delays and ROI-driven operational interventions. |
+|  **[`notebooks/final_project_4.ipynb`](./notebooks/final_project_4.ipynb)** | The master Jupyter Notebook containing the end-to-end data pipeline, EDA, Graph Modeling, and ML Showdown. |
 |  **[`visualisations/`](./visualisations/)** | The raw HTML files for the PyVis interactive network graphs. |
 |  **[`data/`](./data/)** | Processed node metrics, audited corridors, and edge-lists (raw PII/massive logs omitted). |
 
